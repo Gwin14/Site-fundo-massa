@@ -7,12 +7,13 @@
 body{
     background-image: url(IMG_0857.JPG);
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
     padding-left: 70px;
-    width: 1920px;
+    width: 96vw;
     height: 96px;
     background: linear-gradient(0deg, #1b1b1b18 0%, #1d1c1c0a 100%), radial-gradient(151.92% 127.02% at 15.32% 21.04%, rgba(27, 27, 27, 0.137) 0%, rgba(147, 174, 198, 0.00) 100%);
     backdrop-filter: blur(8px);
